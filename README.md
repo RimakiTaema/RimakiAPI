@@ -9,9 +9,10 @@ This repo only compile FAT .jar and .phar Please be noted that it's can frequent
 (no java stuff in phar and no php stuff in .jar)
 ---
 My own api for all plugin in Bedrock
-Currently Have 2 Major Editions
+Currently Have 3 Major Editions
 - RimakiXAPI
 - RimakiPHPAPI (Specifically Pocketmine-MP)
+- RimakiBDSAI
 (More Soon)
 
 RimakiAPI Is helper api for who making an plugin for Bedrock Software BDS Base Or Even Non BDS Base
