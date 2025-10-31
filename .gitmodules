@@ -1,0 +1,3 @@
+[submodule "RimakiXAPI"]
+	path = RimakiXAPI
+	url = https://github.com/ThelabDevelopment/RimakiXAPI
